@@ -1,8 +1,10 @@
 {
   "domain": "pioneervsx",
-  "name": "Pioneer",
-  "documentation": "https://www.home-assistant.io/components/pioneer",
+  "name": "PioneerVSX920",
+  "version": "1.0.0",
+  "documentation": "https://github.com/bau-tech/ha-pioneervsx920",
   "requirements": [],
   "dependencies": [],
   "codeowners": []
+  "iot_class": "local_polling"
 }
